@@ -1,0 +1,17 @@
+.firstHedder {
+    color: rgb(0, 238, 255);
+    display: block;
+    text-align: center;
+}
+
+.mainTable {
+    text-align: center;
+    overflow-x: auto;
+    background-color: rgb(22, 26, 29);
+    color: rgb(160, 170, 186);
+    font-weight: 400;
+}
+
+.y-xSelector {
+    color: black;
+}
