@@ -1,4 +1,4 @@
-# Covid19-Data-Visualizationisualization
+# Covid19-Data-Visualization
 Data visualization of covid19 using WHO global data
 
 Here is a screenshot of this app:
